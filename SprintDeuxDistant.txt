@@ -1,3 +1,4 @@
 En tant que directeur d'études, je veux pouvoir créer, modifier et supprimer des classes (intitulé, horaires, salle, enseignant)
 Je veux pouvoir inscrire des étudiants à des classes.
 Je veux pouvoir générer automatiquement l'emplois d'une classe en fonction des cours et des ensiegnants disponibles.
+En tant que directeur d'études, je veux pouvoir exporter les emplois du temps au format PDF ou Excel
