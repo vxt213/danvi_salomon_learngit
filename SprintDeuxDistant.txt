@@ -1,1 +1,2 @@
 En tant que directeur d'études, je veux pouvoir créer, modifier et supprimer des classes (intitulé, horaires, salle, enseignant)
+Je veux pouvoir inscrire des étudiants à des classes.
