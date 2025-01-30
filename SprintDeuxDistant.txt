@@ -5,3 +5,4 @@ En tant que directeur d'études, je veux pouvoir exporter les emplois du temps a
 Sprint 3: Améliorations et personnalisation
 En tant que directeur des études, je veux pouvoir personnaliser l'affichage de l'emploi du temps (couleur, format)
 En tant que directeur d'études je veux pouvoir recevoir des notifications en cas de conflit d'emploi du temps (cours doublement planifié, enseignant indisponible)
+En tant que directeur d'études, je veux pouvoir résoudre manuellement les conflits des emplois du temps
